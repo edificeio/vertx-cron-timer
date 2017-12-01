@@ -17,8 +17,8 @@
 package fr.wseduc.cron;
 
 import org.quartz.CronExpression;
-import org.vertx.java.core.Handler;
-import org.vertx.java.core.Vertx;
+import io.vertx.core.Handler;
+import io.vertx.core.Vertx;
 
 import java.io.Serializable;
 import java.text.ParseException;
